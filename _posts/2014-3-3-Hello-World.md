@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Blog Post - What is Data Science?
+title: First Blog Post - What is Data Science?-old
 ---
 
   I have to assume this will be the first of many blog posts I will be creating. For the next 10 weeks, the blog posts will be directly related to a data science class I am currently taking at North Carolina State University. It is my final class before graduating with my Masters in Statistics. After that, hopefully I'll have the energy to continue using my newly found spare time productively. I have some dynamic Python webscrapers that I have built previously that I may want to blog about once school is over and I have a bit more time. 
