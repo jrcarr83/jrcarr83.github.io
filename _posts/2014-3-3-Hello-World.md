@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: First Blog Post - What is Data Science?
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+  I have to assume this will be the first of many blog posts I will be creating. For the next 10 weeks, the blog posts will be directly related to a data science class I am currently taking at North Carolina State University. It is my final class before graduating with my Masters in Statistics. After that, hopefully I'll have the energy to continue using my newly found spare time productively. I have some dynamic Python webscrapers that I have built previously that I may want to blog about once school is over and I have a bit more time. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+  This post is supposed to serve as an introduction to blogging and data science. In regards to data science, the articles were quite clear that there are three main areas of importance: some background in computer science, statistical/mathematics, and domain knowledge. Another defining aspect is that the data tends to be larger than your typical statistical analyses - millions to billions in the rows and hundreds to thousands of columns. With a statistician, you can picture a client may pose something that they want to study, hypotheses will then be created, a test will be set up and run, data will be collected, and then the statistician will test the data against the hypothesis. However, when I think of a data scientist, I picture the client asking a question, but there being no test to set up and run, but instead much of the analysis will be focused around using existing data to forecast or understand a complex data set. 
+  
+  If I had to put myself into which role I think I am right now, it would be data scientist. I work with large amounts of data in my current role, and I am expected to be able to understand the data, wrangle it, blend it, and cleanse it myself. That means writing the queries and using the software (SAS and occassionally Python) to create meaningful visualizations and presentations for leadership within the organization. Though even if I did not currently have the role of a data scientist in my career, I think I would still have trouble calling myself a statistician and would lean towards data science. It could be my own misinterpretation, but I tend to think of statisticians as PhD level experts in math and statistics. 
+  
+  Either way, the applied nature of this class is quite appealing to me. I'm glad to be using GitHub and having a place to display work that I have completed, and I am looking forward to the semester and hopefully graduating. 
