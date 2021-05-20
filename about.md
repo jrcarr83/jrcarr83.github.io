@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey Everybody! This is my awesome blog where I talk about statistics, r, python, data science, and other topics like that. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+And hopefully later... basketball?!?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jrcarr83@gmail.com](mailto:jrcarr83@gmail.com)
