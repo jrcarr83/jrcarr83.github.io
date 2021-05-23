@@ -10,10 +10,10 @@ And hopefully later... *basketball*?!?
 
 ### More Information
 
-Me with my kids: Brooks and Evie.
+Me with my kids: Brooks and Evie. I have not had a real haircut since COVID began, and I was inspired to grow it out by my son's long lochs. 
 ![](images/fam.jpg)
 
-Photo of my good dog Kemba.
+Photo of my good dog, Kemba.
 ![](images/kemba.jpg)
 
 ### Contact me
